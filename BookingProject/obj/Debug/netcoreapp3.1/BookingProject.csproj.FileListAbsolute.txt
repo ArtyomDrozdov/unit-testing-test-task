@@ -1,0 +1,9 @@
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\bin\Debug\netcoreapp3.1\BookingProject.deps.json
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\bin\Debug\netcoreapp3.1\BookingProject.dll
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\bin\Debug\netcoreapp3.1\BookingProject.pdb
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\obj\Debug\netcoreapp3.1\BookingProject.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\obj\Debug\netcoreapp3.1\BookingProject.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\obj\Debug\netcoreapp3.1\BookingProject.AssemblyInfo.cs
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\obj\Debug\netcoreapp3.1\BookingProject.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\obj\Debug\netcoreapp3.1\BookingProject.dll
+C:\Users\Артём\source\repos\UnitTesting_TestTask\BookingProject\obj\Debug\netcoreapp3.1\BookingProject.pdb
